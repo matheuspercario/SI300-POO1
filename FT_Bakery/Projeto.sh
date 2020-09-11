@@ -1,0 +1,1 @@
+clear; g++ -std=c++11 FT_bakery.cpp MyProgram.cpp a02ex00.cpp a02ex01_a.cpp a02ex03_a.cpp a02ex03_b.cpp a02ex03_c.cpp a02ex03_d.cpp a02ex03_e.cpp a02ex03_f.cpp a02ex03_g.cpp a02ex03_h.cpp a02ex03_i.cpp a02ex03_j.cpp a02ex03_k.cpp a02ex03_l.cpp a02ex03_m.cpp a02ex03_n.cpp a02ex03_o.cpp a02ex03_p.cpp a02ex03_q.cpp a02ex03_r.cpp -o Projeto.exe; ./Projeto.exe 
