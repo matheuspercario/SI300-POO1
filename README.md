@@ -13,5 +13,5 @@ O [Prof. Dr. André Angelis](https://www.ft.unicamp.br/pt-br/pessoas/docentes/an
 
 ## Disciplina
 * Prof. Dr. André Angelis
-* 1S2020
+* 1S2019
 * SI300
